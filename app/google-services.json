@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430937509707",
+    "firebase_url": "https://fir-c6367-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-c6367",
+    "storage_bucket": "fir-c6367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430937509707:android:ea66c43c29f2ac634062ce",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430937509707-2cvtpfk7u5klpj3a80n011oalmuce43u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfeNCmgLcO06mOUVNlo0JwAHxaF7KPw4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430937509707-2cvtpfk7u5klpj3a80n011oalmuce43u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
